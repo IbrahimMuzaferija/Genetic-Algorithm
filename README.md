@@ -11,7 +11,7 @@ In the spirit of “survival of the ﬁttest,” GAs are naturally designed to s
 
 Two appealing properties of GAs are that they require no derivatives of the objective function and they are capable of achiveving global optimization. The former is in particular useful in situations in which, for example, no derivatives of the objective function exist and hence conventional techniques (like gradient decent methods) cannot be applied. Given an unlimited amount of search time, GAs are able to ﬁnd the global optimum in the search space. That is because they are less likely to get trapped in a local maximum due to their intrinsic stochastic mechanisms.
 
-### Run
+### Application
 
 The project contains several datasets, each describing knapsack problem of different complexity. In order to run the algorithm, dataset needs to be selected. The following figure depicts finding the optimum solution for dataset containing 10,000 items.
 
