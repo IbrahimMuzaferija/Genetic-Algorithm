@@ -1,0 +1,751 @@
+
+
+Population size:100	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Roulette wheel	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(2)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(4)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(8)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(8)	Recombination:One cut recombination (0.7)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(8)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.001)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:100	Selection:Tournament(8)	Recombination:One cut recombination (0.8)	Mutation:Binary mutation (0.003)	Prob1s:0.05	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:400	Selection:Tournament(2)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:400	Selection:Tournament(4)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:400	Selection:Tournament(7)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:600	Selection:Tournament(2)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:600	Selection:Tournament(4)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200	Max generations:600	Selection:Tournament(7)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:400	Selection:Tournament(2)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:400	Selection:Tournament(4)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:400	Selection:Tournament(7)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:600	Selection:Tournament(2)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:600	Selection:Tournament(4)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:400	Max generations:600	Selection:Tournament(7)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:400	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:400	Selection:Tournament(2)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:400	Selection:Tournament(4)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:400	Selection:Tournament(7)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:600	Selection:Roulette wheel	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:600	Selection:Tournament(2)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:800	Max generations:600	Selection:Tournament(4)	Recombination:uniform recombination (0.5)	Mutation:Binary mutation (7.5E-5)	Prob1s:0.00233	Fitness type:0
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0

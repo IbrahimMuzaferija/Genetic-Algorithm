@@ -1,0 +1,38 @@
+Runs: 50
+
+Population size: 200, 400, 800
+
+Max generations: 400, 600
+
+//--------------------------------
+
+Selection: roulette wheel, tournament
+
+Tournament size: 2, 4, 7
+
+//--------------------------------
+
+Recombination: uniform
+
+Recombination probability: 0.5
+
+//--------------------------------
+
+Mutation: binary
+
+Mutation probability: 0.000075
+
+//--------------------------------
+
+Probability of 1s: 0.00233
+
+Fitness type: 0
+
+//--------------------------------
+
+Problem file: ./DataSets/DataSet1.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage
